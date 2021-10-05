@@ -1,0 +1,6 @@
+name: cr-vault
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Used to create a hashicorp vault single instance using cloud run
